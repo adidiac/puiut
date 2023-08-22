@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "http://localhost:3000/static/js/main.14de3838.js",
-    "index.html": "http://localhost:3000/index.html",
-    "main.14de3838.js.map": "http://localhost:3000/static/js/main.14de3838.js.map"
+    "main.js": "/puiut/static/js/main.14de3838.js",
+    "index.html": "/puiut/index.html",
+    "main.14de3838.js.map": "/puiut/static/js/main.14de3838.js.map"
   },
   "entrypoints": [
     "static/js/main.14de3838.js"
