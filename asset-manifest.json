@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.js": "/puiut/static/js/main.14de3838.js",
+    "main.js": "/puiut/static/js/main.67cfdce2.js",
+    "static/media/flag.png": "/puiut/static/media/flag.01b860bebc8bd45678d8.png",
     "index.html": "/puiut/index.html",
-    "main.14de3838.js.map": "/puiut/static/js/main.14de3838.js.map"
+    "main.67cfdce2.js.map": "/puiut/static/js/main.67cfdce2.js.map"
   },
   "entrypoints": [
-    "static/js/main.14de3838.js"
+    "static/js/main.67cfdce2.js"
   ]
 }
